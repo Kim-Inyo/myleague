@@ -42,8 +42,8 @@ a, a:visited, a:hover, a:active {
     font-weight: bold;
     border-radius: 7px;
     color: white;
-    margin: 5px 10px 0 10px;
-    padding: 5px 10px 5px 10px;
+    margin: 5px 5px 0 5px;
+    padding: 5px 5px 5px 5px;
     position: relative;
 }
 .navbar li a {
@@ -60,21 +60,21 @@ a, a:visited, a:hover, a:active {
 }
 .social li{
     color: white;
-    font-size: 30px;
+    font-size: 20px;
 }
 .fa{
     color: white;
-    font-size: 30px;
-    padding: 15px;
-    width: 30px;
+    font-size: 20px;
+    padding: 10px;
+    width: 20px;
     text-align: center;
     border-radius: 50%;
     text-decoration: none;
     margin: 10px;
 }
 .fa:hover{
-    font-size:35px;
-    width: 35px;
+    font-size:25px;
+    width: 25px;
 }
 .fa-youtube{
     background-color: #E61212;
